@@ -4,7 +4,7 @@ such as **airline**, **source city**, **destination**, and **number of stops**.
 Built using **Machine Learning** and presented through a **Streamlit UI**.
 This tool helps understand how travel variables affect flight cost.
 
----
+-----
 
 ## 📂 Project Structure
 Flight_Price_Prediction/
