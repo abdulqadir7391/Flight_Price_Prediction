@@ -1,5 +1,5 @@
 ## For run code
-## python -m streamlit run apps.py
+## python -m streamlit run apps.py 
 
 import streamlit as st
 import joblib
@@ -51,3 +51,4 @@ if st.button("Predict Price"):
 
     # Display the predicted price
     st.write(f"**Predicted Flight Price: ₹{prediction:,.2f}**")
+
